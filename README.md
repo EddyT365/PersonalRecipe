@@ -1,1 +1,1 @@
-Personal Recipe by The CC Adventurer
+Personal Recipes by The CC Adventurer
