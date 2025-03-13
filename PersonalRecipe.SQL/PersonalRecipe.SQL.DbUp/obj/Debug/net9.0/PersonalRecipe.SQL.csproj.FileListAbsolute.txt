@@ -106,3 +106,4 @@
 /Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/obj/Debug/net9.0/PersonalRecipe.SQL.pdb
 /Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/obj/Debug/net9.0/PersonalRecipe.SQL.genruntimeconfig.cache
 /Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/obj/Debug/net9.0/ref/PersonalRecipe.SQL.dll
+/Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/obj/Debug/net9.0/PersonalRecipe.SQL.sourcelink.json
