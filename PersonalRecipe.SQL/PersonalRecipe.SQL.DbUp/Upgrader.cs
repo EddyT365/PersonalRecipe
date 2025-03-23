@@ -1,15 +1,17 @@
 using System;
 using System.Reflection;
 using DbUp;
-
+using DbUp.Engine;
+using DbUp.Support;
 public static class Upgrader
 {
     public static int PerformUpgrade(string connectionString)
     {
         EnsureDatabase.For.SqlDatabase(connectionString);
-
+        
         var upgrader = DeployChanges.To.SqlDatabase(connectionString)
-                        .WithScriptsEmbeddedInAssembly(Assembly.GetExecutingAssembly())
+                        .WithScriptsEmbeddedInAssembly(Assembly.GetExecutingAssembly(), script => script.StartsWith(""), new SqlScriptOptions { ScriptType = ScriptType.RunOnce })
+                        .WithScriptsEmbeddedInAssembly(Assembly.GetExecutingAssembly(), script => script.StartsWith(""), new SqlScriptOptions { ScriptType = ScriptType.RunAlways })
                         .LogToConsole()
                         .Build();
 

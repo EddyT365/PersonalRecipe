@@ -107,3 +107,12 @@
 /Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/obj/Debug/net9.0/PersonalRecipe.SQL.genruntimeconfig.cache
 /Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/obj/Debug/net9.0/ref/PersonalRecipe.SQL.dll
 /Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/obj/Debug/net9.0/PersonalRecipe.SQL.sourcelink.json
+/Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/bin/Debug/net9.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/bin/Debug/net9.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/eddyt/Repos/PersonalRecipe/PersonalRecipe.SQL/PersonalRecipe.SQL.DbUp/bin/Debug/net9.0/appsettings.json

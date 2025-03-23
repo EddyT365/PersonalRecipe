@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersonalRecipe.SQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66a6dfb211157024394fea70f142a1aef6adb44d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c44dd8fd866ebf21c8f9231e5211c4cb12213223")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonalRecipe.SQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonalRecipe.SQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
